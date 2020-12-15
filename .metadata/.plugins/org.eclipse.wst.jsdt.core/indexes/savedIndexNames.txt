@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/macsupport423/Desktop/Java/Books/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3096902925.index
+610351213.index
+3177301815.index
+4144809837.index
+4105342159.index
+180413643.index
+2378335314.index

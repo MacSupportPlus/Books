@@ -1,0 +1,33 @@
+package com.macsupport.books.services;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.macsupport.books.models.Book;
+import com.macsupport.books.repositories.BookRepository;
+
+@Service 
+public class BookService {
+	private final BookRepository bookRepo;
+	
+	public BookService(BookRepository bookRepo) {
+		this.bookRepo = bookRepo; 
+	}
+	//.all()
+	public List<Book> getAllBooks() {
+		return bookRepo.findAll();
+	}
+	//.get()
+	public Book findBook(Long id) {
+		return bookRepo.findById(id).orElse(null);
+	}
+	public void createBook(String title, String description, String language, Integer numOfPages) {
+		// TODO Auto-generated method stub
+		Book newBook = new Book(title, description, language, numOfPages);
+		bookRepo.save(newBook);
+		
+	}
+
+	
+}

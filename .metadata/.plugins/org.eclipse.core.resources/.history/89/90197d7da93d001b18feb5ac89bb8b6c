@@ -1,0 +1,38 @@
+package com.macsupport.books.controllers;
+
+
+import java.util.List;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+
+import com.macsupport.books.models.Book;
+import com.macsupport.books.services.BookService;
+
+@Controller
+public class MainController {
+	private final BookService bookServ;
+	
+	public MainController(BookService bookServ) {
+		this.bookServ = bookServ;
+	}
+	
+	@GetMapping("/")
+	public String index(Model model) {
+		List<Book> allBooks = bookServ.getAllBooks();
+		model.addAttribute("books",allBooks);
+		return "index.jsp";
+	}
+	@PostMapping("/books/new")
+	public String create(
+			@RequstParam(value="title") String title,
+			@RequstParam(value="description") String description,
+			@RequstParam(value="language") String language,
+			@RequstParam(value="numOfPages") Integer numOfPages
+	) {
+		bookServ.createBook(title, description, language, numOfPages);
+		return "redirect:/";
+	}
+}

@@ -1,0 +1,5 @@
+package com.macsupport.books.services;
+
+public class BookService {
+
+}

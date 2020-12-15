@@ -1,0 +1,5 @@
+package com.macsupport.books.models;
+
+public class Book {
+
+}

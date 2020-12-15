@@ -1,0 +1,5 @@
+package com.macsupport.books.controllers;
+
+public class MainController {
+
+}

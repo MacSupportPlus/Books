@@ -1,0 +1,5 @@
+package com.macsupport.books.repositories;
+
+public interface BookRepository {
+
+}
