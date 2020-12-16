@@ -9,6 +9,7 @@ import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -60,6 +61,19 @@ public class BooksApi {
     	bookService.deleteBook(id);
     	return "redirect:/books";
     }
-    
-    
+    @RequestMapping("/books/{id}")
+    public String display(@PathVariable("id") Long id, Model model) {
+			model.addAttribute("singleBook", bookService.findBook(id));
+    		return "show.jsp";
+    		
+    }
+    @PostMapping("/books/{id}/update")
+    public String updateBook(@Valid @PathVariable("id") Long id, @ModelAttribute("singleBook") Book singleBook, BindingResult result){
+    	if(result.hasErrors()) {
+    		return "show.jsp";
+    	} else {
+    		bookService.update(singleBook, id);
+    	return "redirect:/books/" + id;
+    	}	
+   }
 }

@@ -3,6 +3,8 @@ package com.macsupport.books.services;
 import java.util.List;
 import java.util.Optional;
 
+import javax.validation.Valid;
+
 import org.springframework.stereotype.Service;
 
 import com.macsupport.books.models.Book;
@@ -36,8 +38,10 @@ public class BookService {
 		// TODO Auto-generated method stub
 		bookRepo.deleteById(id);
 	}
-    
-	
+	public Book update(Book toUpdate, Long id) {
+		return bookRepo.save(toUpdate);
+    }
+   
 
 	
 }

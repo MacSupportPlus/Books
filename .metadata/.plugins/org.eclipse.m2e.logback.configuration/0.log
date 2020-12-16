@@ -957,3 +957,150 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2020-12-15 14:38:00,028 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-12-15 14:38:00,029 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2020-12-15 14:38:00,029 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macsupport423/Desktop/Java/Books/Books/src/test/resources
+2020-12-15 15:54:13,621 [Worker-24: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 15:54:13,627 [Worker-24: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 15:54:13,630 [Worker-24: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 15:54:13,631 [Worker-24: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 15:54:13,633 [Worker-24: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 15:54:13,633 [Worker-24: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 15:54:13,633 [Worker-24: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macsupport423/Desktop/Java/Books/Books/src/test/resources
+2020-12-15 16:56:33,078 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 16:56:33,079 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 16:56:33,080 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 16:56:33,080 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 16:56:33,083 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 16:56:33,083 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 16:56:33,083 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macsupport423/Desktop/Java/Books/Books/src/test/resources
+2020-12-15 16:58:42,937 [Worker-29: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 16:58:42,937 [Worker-29: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 16:58:42,937 [Worker-29: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 16:58:42,937 [Worker-29: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 16:58:42,939 [Worker-29: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 16:58:42,939 [Worker-29: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 16:58:42,939 [Worker-29: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macsupport423/Desktop/Java/Books/Books/src/test/resources
+2020-12-15 17:15:34,923 [Worker-34: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 17:15:34,924 [Worker-34: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 17:15:34,928 [Worker-34: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-15 17:15:34,936 [Worker-34: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 17:15:34,937 [Worker-34: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-12-15 17:15:34,939 [Worker-34: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 17:15:34,940 [Worker-34: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 17:15:34,940 [Worker-34: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macsupport423/Desktop/Java/Books/Books/src/test/resources
+2020-12-15 17:17:46,694 [Worker-40: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 17:17:46,695 [Worker-40: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 17:17:46,695 [Worker-40: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-15 17:17:46,701 [Worker-40: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 17:17:46,701 [Worker-40: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-12-15 17:17:46,703 [Worker-40: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 17:17:46,703 [Worker-40: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 17:17:46,703 [Worker-40: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macsupport423/Desktop/Java/Books/Books/src/test/resources
+2020-12-15 17:19:58,162 [Worker-38: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 17:19:58,162 [Worker-38: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 17:19:58,163 [Worker-38: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 17:19:58,163 [Worker-38: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 17:19:58,165 [Worker-38: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 17:19:58,165 [Worker-38: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 17:19:58,165 [Worker-38: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macsupport423/Desktop/Java/Books/Books/src/test/resources
+2020-12-15 17:20:42,190 [Worker-49: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 17:20:42,190 [Worker-49: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 17:20:42,190 [Worker-49: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 17:20:42,191 [Worker-49: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 17:20:42,194 [Worker-49: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 17:20:42,194 [Worker-49: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 17:20:42,194 [Worker-49: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macsupport423/Desktop/Java/Books/Books/src/test/resources
+2020-12-15 17:21:40,447 [Worker-38: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 17:21:40,447 [Worker-38: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 17:21:40,448 [Worker-38: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 17:21:40,448 [Worker-38: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 17:21:40,449 [Worker-38: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 17:21:40,450 [Worker-38: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 17:21:40,450 [Worker-38: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macsupport423/Desktop/Java/Books/Books/src/test/resources
+2020-12-15 17:24:30,887 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 17:24:30,888 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 17:24:30,888 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 17:24:30,888 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 17:24:30,890 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 17:24:30,890 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 17:24:30,890 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macsupport423/Desktop/Java/Books/Books/src/test/resources
+2020-12-15 17:24:49,080 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 17:24:49,080 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 17:24:49,080 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 17:24:49,080 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 17:24:49,081 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 17:24:49,081 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 17:24:49,081 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macsupport423/Desktop/Java/Books/Books/src/test/resources
+2020-12-15 17:27:20,839 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 17:27:20,840 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 17:27:20,840 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 17:27:20,840 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 17:27:20,842 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 17:27:20,842 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 17:27:20,842 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macsupport423/Desktop/Java/Books/Books/src/test/resources
+2020-12-15 23:44:20,298 [Worker-63: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 23:44:20,300 [Worker-63: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 23:44:20,300 [Worker-63: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 23:44:20,301 [Worker-63: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 23:44:20,303 [Worker-63: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 23:44:20,303 [Worker-63: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 23:44:20,304 [Worker-63: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macsupport423/Desktop/Java/Books/Books/src/test/resources
+2020-12-15 23:46:58,376 [Worker-66: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 23:46:58,377 [Worker-66: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 23:46:58,377 [Worker-66: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 23:46:58,377 [Worker-66: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-15 23:46:58,379 [Worker-66: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 23:46:58,379 [Worker-66: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-15 23:46:58,379 [Worker-66: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macsupport423/Desktop/Java/Books/Books/src/test/resources
+2020-12-16 00:06:47,916 [Worker-80: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-16 00:06:47,917 [Worker-80: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-16 00:06:47,919 [Worker-80: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-16 00:06:48,004 [Worker-80: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-16 00:06:48,004 [Worker-80: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-12-16 00:06:48,007 [Worker-80: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-16 00:06:48,007 [Worker-80: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-16 00:06:48,007 [Worker-80: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macsupport423/Desktop/Java/Books/Books/src/test/resources
+2020-12-16 00:09:45,811 [Worker-80: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-16 00:09:45,811 [Worker-80: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-16 00:09:45,812 [Worker-80: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-16 00:09:45,812 [Worker-80: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-16 00:09:45,814 [Worker-80: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-16 00:09:45,814 [Worker-80: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-16 00:09:45,814 [Worker-80: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macsupport423/Desktop/Java/Books/Books/src/test/resources
+2020-12-16 00:11:57,607 [Worker-81: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-16 00:11:57,608 [Worker-81: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-16 00:11:57,608 [Worker-81: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-16 00:11:57,608 [Worker-81: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-16 00:11:57,609 [Worker-81: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-16 00:11:57,609 [Worker-81: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-16 00:11:57,609 [Worker-81: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macsupport423/Desktop/Java/Books/Books/src/test/resources
+2020-12-16 00:26:12,569 [Worker-96: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-16 00:26:12,571 [Worker-96: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-16 00:26:12,572 [Worker-96: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-16 00:26:12,582 [Worker-96: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-16 00:26:12,582 [Worker-96: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-12-16 00:26:12,585 [Worker-96: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-16 00:26:12,585 [Worker-96: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-16 00:26:12,585 [Worker-96: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macsupport423/Desktop/Java/Books/Books/src/test/resources
+2020-12-16 00:31:19,819 [Worker-95: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-16 00:31:19,820 [Worker-95: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-16 00:31:19,820 [Worker-95: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-16 00:31:19,833 [Worker-95: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-16 00:31:19,833 [Worker-95: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-12-16 00:31:19,836 [Worker-95: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-16 00:31:19,836 [Worker-95: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-16 00:31:19,836 [Worker-95: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macsupport423/Desktop/Java/Books/Books/src/test/resources
+2020-12-16 00:41:54,831 [Worker-96: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-16 00:41:54,831 [Worker-96: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-16 00:41:54,831 [Worker-96: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-16 00:41:54,841 [Worker-96: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-16 00:41:54,841 [Worker-96: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-12-16 00:41:54,845 [Worker-96: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-16 00:41:54,845 [Worker-96: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-16 00:41:54,845 [Worker-96: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macsupport423/Desktop/Java/Books/Books/src/test/resources
+2020-12-16 00:43:52,567 [Worker-95: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-16 00:43:52,567 [Worker-95: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-16 00:43:52,568 [Worker-95: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-16 00:43:52,572 [Worker-95: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-16 00:43:52,572 [Worker-95: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - The encoding used to copy filtered properties files have not been set. This means that the same encoding will be used to copy filtered properties files as when copying other filtered resources. This might not be what you want! Run your build with --debug to see which files might be affected. Read more at https://maven.apache.org/plugins/maven-resources-plugin/examples/filtering-properties-files.html
+2020-12-16 00:43:52,574 [Worker-95: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-16 00:43:52,574 [Worker-95: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2020-12-16 00:43:52,574 [Worker-95: Launching Books - BooksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/macsupport423/Desktop/Java/Books/Books/src/test/resources
